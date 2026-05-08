@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Daniel+Murillo;Software+Developer+from+Costa+Rica+%F0%9F%87%A8%F0%9F%87%B7;Passionate+about+building+great+software" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Daniel Murillo Sánchez</h1>
+  <h3>Software Developer from Costa Rica 🇨🇷</h3>
 </div>
 
 ---
